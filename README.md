@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HongPhuc_PROGRAMMiNG
 - 👀 I’m interested in programming some algorithm
-- 🌱 I’m currently learning Java and SpringBoot
+- 🌱 I’m currently learning different Java technology, ReactJS and SpringBoot
 - 💞️ I’m looking to collaborate on big companies
 - 📫 How to reach me ...
 
